@@ -1,0 +1,1 @@
+console.log("Here we created even and odd numbers in the given array and 2nd app.js about finding prime numbers in the given array");
